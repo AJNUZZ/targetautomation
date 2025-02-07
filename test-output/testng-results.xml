@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-31T22:41:04 IST" name="Default suite" finished-at="2025-01-31T22:41:12 IST" duration-ms="8009">
+    <groups>
+    </groups>
+    <test started-at="2025-01-31T22:41:04 IST" name="Default test" finished-at="2025-01-31T22:41:12 IST" duration-ms="8009">
+      <class name="targettestpkg.targettest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:targettestpkg.targettest@4b29d1d2]" started-at="2025-01-31T22:41:04 IST" name="setup" finished-at="2025-01-31T22:41:09 IST" duration-ms="4668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="urlverification()[pri:0, instance:targettestpkg.targettest@4b29d1d2]" started-at="2025-01-31T22:41:09 IST" name="urlverification" finished-at="2025-01-31T22:41:12 IST" duration-ms="3303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlverification -->
+      </class> <!-- targettestpkg.targettest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
